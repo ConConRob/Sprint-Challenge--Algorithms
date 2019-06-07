@@ -134,4 +134,3 @@ if __name__ == "__main__":
     robot = SortingRobot(l)
     robot.sort()
     print(robot._list)
-    print(robot._time)
